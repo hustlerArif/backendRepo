@@ -1,0 +1,16 @@
+
+
+.text{
+    text-align: center;
+    background-color: rgb(219, 127, 127);
+    font-size: large;
+}
+
+.blogContainer{
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
